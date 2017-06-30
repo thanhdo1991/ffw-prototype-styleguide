@@ -1,0 +1,10 @@
+{
+    "name": "root/demo_page",
+    "authors": [
+        {
+            "name": "Thanh",
+            "email": "huuthanhcntt3a2@gmail.com"
+        }
+    ],
+    "require": {}
+}
